@@ -67,6 +67,11 @@ For support, email pranjalraghuvanshi242@gmail.com.
 If you have any feedback, please reach out to us at pranjalraghuvanshi242@gmail.com
 
 
+## Demo
+
+You can test this project on all images in the "test_images" folder.
+
+
 ## Authors
 
 - [@Pranjal2506](https://github.com/Pranjal2506)
