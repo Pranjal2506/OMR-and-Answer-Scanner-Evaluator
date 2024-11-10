@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+body::before {
+    content: "";
+    background-image: url('/static/back.png');
+    background-size: cover;
+    background-position: center;
+    position: fixed; /* Change to fixed to cover entire viewport */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    filter: blur(5px); /* Apply blur effect */
+    z-index: -1;
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+    position: relative;
+    z-index: 1; /* Ensures content appears above blurred background */
+}
+
+h1 {
+    color: white;
+}
+
+.image-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+img {
+    margin-left: 15px;
+}
+
+.square-img {
+    width: 30%;
+    margin: 10px;
+    border: 2px solid orange;
+    border-radius: 8px;
+    object-fit: contain;
+}
+
+.rectangular-img {
+    width: 130px;
+    margin: 10px;
+    border: 2px solid orange;
+    border-radius: 8px;
+    object-fit: contain;
+}
+
+.terms {
+    margin-top: 20px;
+    font-size: 18px;
+    color: orange;
+}
+
+.confirm-btn {
+    background-color: orange;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.confirm-btn:hover {
+    background-color: rgb(255, 89, 0);
+}
+
+#terms-checkbox {
+    margin-right: 10px;
+}
