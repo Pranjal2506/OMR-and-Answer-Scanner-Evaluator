@@ -62,12 +62,14 @@ Run the Python code:
 For support, email pranjalraghuvanshi242@gmail.com.
 
 
-## Feedback
 
-If you have any feedback, please reach out to us at pranjalraghuvanshi242@gmail.com
+## Colaboration
+Currently this project is working for GLA University, Mathura.
+
+If you want to make it useful for your organisation contact us on:pranjalraghuvanshi242@gmail.com
 
 
-## Demo
+## Testing images
 
 You can test this project on all images in the "test_images" folder.
 
