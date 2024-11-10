@@ -66,7 +66,7 @@ For support, email pranjalraghuvanshi242@gmail.com.
 ## Colaboration
 Currently this project is working for GLA University, Mathura.
 
-If you want to make it useful for your organisation contact us on:pranjalraghuvanshi242@gmail.com
+If you want to make it useful for your organisation contact us on: pranjalraghuvanshi242@gmail.com
 
 
 ## Testing images
