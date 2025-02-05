@@ -12,7 +12,7 @@ Together, these solutions streamline exam evaluation while cutting costs and imp
 
 ### Secure Login and Register
 
-![Screenshot 2024-11-09 171145](https://github.com/user-attachments/assets/e92faf2e-b7b7-481b-b8fa-f207b0e62c39)
+![Screenshot 2024-11-09 171145](https://github.com/Pranjal2506/OMR-and-Answer-Scanner-Evaluator/blob/9b7d494b05b70ac03d9701622e3fc8d2de9540dc/Screenshot%202024-11-09%20171145.png)
 
 ### Evaluation of omr images
 
