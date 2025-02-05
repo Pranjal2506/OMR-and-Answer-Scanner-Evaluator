@@ -16,15 +16,15 @@ Together, these solutions streamline exam evaluation while cutting costs and imp
 
 ### Evaluation of omr images
 
-![Screenshot 2024-11-09 164245](https://github.com/user-attachments/assets/023eb0f2-0e4b-4aed-86ac-26f512dae7e3)
+![Screenshot 2024-11-09 164245](https://github.com/Pranjal2506/OMR-and-Answer-Scanner-Evaluator/blob/76bad0bf627aa0a40e495de87b1c25c62474fe47/Screenshot%202024-11-09%20164245.png)
 
 ### Storing the marks with roll number in Excel sheet
 
-![Screenshot 2024-11-09 170739](https://github.com/user-attachments/assets/b9b09e03-e112-415f-baac-560f106f9a02)
+![Screenshot 2024-11-09 170739](https://github.com/Pranjal2506/OMR-and-Answer-Scanner-Evaluator/blob/76bad0bf627aa0a40e495de87b1c25c62474fe47/Screenshot%202024-11-09%20170739.png)
 
 ### Marks with feedback in theoritical evaluation
 
-![Screenshot 2024-11-09 171056](https://github.com/user-attachments/assets/8b6cc8d5-96f8-4e2f-a23f-a22243d31e50)
+![Screenshot 2024-11-09 171056](https://github.com/Pranjal2506/OMR-and-Answer-Scanner-Evaluator/blob/76bad0bf627aa0a40e495de87b1c25c62474fe47/Screenshot%202024-11-09%20171056.png)
 
 
 ## Environment Variables
